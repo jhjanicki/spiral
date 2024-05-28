@@ -1,0 +1,3877 @@
+[
+  {
+    "Date": "2021-01-01",
+    "Casualties": 19,
+    "killed": 2
+  },
+  {
+    "Date": "2021-01-03",
+    "Casualties": 31,
+    "killed": 5
+  },
+  {
+    "Date": "2021-01-04",
+    "Casualties": 15,
+    "killed": 0
+  },
+  {
+    "Date": "2021-01-06",
+    "Casualties": 9,
+    "killed": 4
+  },
+  {
+    "Date": "2021-01-07",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-01-09",
+    "Casualties": 11,
+    "killed": 6
+  },
+  {
+    "Date": "2021-01-11",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-01-15",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-01-16",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-01-17",
+    "Casualties": 12,
+    "killed": 1
+  },
+  {
+    "Date": "2021-01-18",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-01-22",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-01-24",
+    "Casualties": 11,
+    "killed": 5
+  },
+  {
+    "Date": "2021-01-25",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-01-27",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-01-28",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2021-01-29",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2021-01-30",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2021-02-01",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-02-02",
+    "Casualties": 12,
+    "killed": 8
+  },
+  {
+    "Date": "2021-02-03",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2021-02-04",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-02-05",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2021-02-06",
+    "Casualties": 19,
+    "killed": 3
+  },
+  {
+    "Date": "2021-02-09",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2021-02-10",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-02-11",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2021-02-13",
+    "Casualties": 20,
+    "killed": 1
+  },
+  {
+    "Date": "2021-02-16",
+    "Casualties": 4,
+    "killed": 3
+  },
+  {
+    "Date": "2021-02-17",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2021-02-18",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-02-20",
+    "Casualties": 18,
+    "killed": 5
+  },
+  {
+    "Date": "2021-02-21",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2021-02-26",
+    "Casualties": 14,
+    "killed": 2
+  },
+  {
+    "Date": "2021-02-27",
+    "Casualties": 9,
+    "killed": 2
+  },
+  {
+    "Date": "2021-02-28",
+    "Casualties": 26,
+    "killed": 3
+  },
+  {
+    "Date": "2021-03-03",
+    "Casualties": 5,
+    "killed": 2
+  },
+  {
+    "Date": "2021-03-04",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-03-05",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2021-03-06",
+    "Casualties": 10,
+    "killed": 3
+  },
+  {
+    "Date": "2021-03-07",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-03-08",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-03-10",
+    "Casualties": 4,
+    "killed": 3
+  },
+  {
+    "Date": "2021-03-11",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2021-03-12",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2021-03-13",
+    "Casualties": 20,
+    "killed": 7
+  },
+  {
+    "Date": "2021-03-14",
+    "Casualties": 23,
+    "killed": 2
+  },
+  {
+    "Date": "2021-03-15",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2021-03-16",
+    "Casualties": 13,
+    "killed": 11
+  },
+  {
+    "Date": "2021-03-17",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-03-18",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2021-03-20",
+    "Casualties": 19,
+    "killed": 2
+  },
+  {
+    "Date": "2021-03-22",
+    "Casualties": 14,
+    "killed": 11
+  },
+  {
+    "Date": "2021-03-23",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2021-03-26",
+    "Casualties": 33,
+    "killed": 4
+  },
+  {
+    "Date": "2021-03-27",
+    "Casualties": 14,
+    "killed": 1
+  },
+  {
+    "Date": "2021-03-28",
+    "Casualties": 20,
+    "killed": 4
+  },
+  {
+    "Date": "2021-03-31",
+    "Casualties": 10,
+    "killed": 6
+  },
+  {
+    "Date": "2021-04-03",
+    "Casualties": 22,
+    "killed": 7
+  },
+  {
+    "Date": "2021-04-04",
+    "Casualties": 16,
+    "killed": 1
+  },
+  {
+    "Date": "2021-04-05",
+    "Casualties": 12,
+    "killed": 0
+  },
+  {
+    "Date": "2021-04-06",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2021-04-07",
+    "Casualties": 14,
+    "killed": 8
+  },
+  {
+    "Date": "2021-04-08",
+    "Casualties": 6,
+    "killed": 1
+  },
+  {
+    "Date": "2021-04-09",
+    "Casualties": 6,
+    "killed": 1
+  },
+  {
+    "Date": "2021-04-10",
+    "Casualties": 16,
+    "killed": 2
+  },
+  {
+    "Date": "2021-04-11",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2021-04-13",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-04-15",
+    "Casualties": 33,
+    "killed": 9
+  },
+  {
+    "Date": "2021-04-16",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-04-17",
+    "Casualties": 15,
+    "killed": 1
+  },
+  {
+    "Date": "2021-04-18",
+    "Casualties": 22,
+    "killed": 4
+  },
+  {
+    "Date": "2021-04-19",
+    "Casualties": 10,
+    "killed": 2
+  },
+  {
+    "Date": "2021-04-22",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2021-04-24",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-04-25",
+    "Casualties": 16,
+    "killed": 2
+  },
+  {
+    "Date": "2021-04-26",
+    "Casualties": 12,
+    "killed": 0
+  },
+  {
+    "Date": "2021-04-27",
+    "Casualties": 10,
+    "killed": 3
+  },
+  {
+    "Date": "2021-04-28",
+    "Casualties": 9,
+    "killed": 4
+  },
+  {
+    "Date": "2021-04-29",
+    "Casualties": 6,
+    "killed": 1
+  },
+  {
+    "Date": "2021-05-01",
+    "Casualties": 24,
+    "killed": 4
+  },
+  {
+    "Date": "2021-05-02",
+    "Casualties": 21,
+    "killed": 2
+  },
+  {
+    "Date": "2021-05-03",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2021-05-05",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-05-06",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-05-07",
+    "Casualties": 5,
+    "killed": 2
+  },
+  {
+    "Date": "2021-05-08",
+    "Casualties": 24,
+    "killed": 5
+  },
+  {
+    "Date": "2021-05-09",
+    "Casualties": 32,
+    "killed": 10
+  },
+  {
+    "Date": "2021-05-10",
+    "Casualties": 7,
+    "killed": 0
+  },
+  {
+    "Date": "2021-05-11",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-05-12",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2021-05-13",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2021-05-14",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-05-15",
+    "Casualties": 14,
+    "killed": 4
+  },
+  {
+    "Date": "2021-05-16",
+    "Casualties": 27,
+    "killed": 2
+  },
+  {
+    "Date": "2021-05-18",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2021-05-20",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-05-21",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2021-05-22",
+    "Casualties": 52,
+    "killed": 8
+  },
+  {
+    "Date": "2021-05-23",
+    "Casualties": 17,
+    "killed": 0
+  },
+  {
+    "Date": "2021-05-24",
+    "Casualties": 8,
+    "killed": 6
+  },
+  {
+    "Date": "2021-05-26",
+    "Casualties": 13,
+    "killed": 10
+  },
+  {
+    "Date": "2021-05-27",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-05-28",
+    "Casualties": 7,
+    "killed": 1
+  },
+  {
+    "Date": "2021-05-29",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2021-05-30",
+    "Casualties": 32,
+    "killed": 4
+  },
+  {
+    "Date": "2021-05-31",
+    "Casualties": 14,
+    "killed": 1
+  },
+  {
+    "Date": "2021-06-02",
+    "Casualties": 14,
+    "killed": 0
+  },
+  {
+    "Date": "2021-06-04",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-06-05",
+    "Casualties": 13,
+    "killed": 2
+  },
+  {
+    "Date": "2021-06-06",
+    "Casualties": 43,
+    "killed": 4
+  },
+  {
+    "Date": "2021-06-07",
+    "Casualties": 11,
+    "killed": 2
+  },
+  {
+    "Date": "2021-06-08",
+    "Casualties": 14,
+    "killed": 2
+  },
+  {
+    "Date": "2021-06-10",
+    "Casualties": 13,
+    "killed": 2
+  },
+  {
+    "Date": "2021-06-11",
+    "Casualties": 21,
+    "killed": 5
+  },
+  {
+    "Date": "2021-06-12",
+    "Casualties": 31,
+    "killed": 5
+  },
+  {
+    "Date": "2021-06-13",
+    "Casualties": 10,
+    "killed": 2
+  },
+  {
+    "Date": "2021-06-14",
+    "Casualties": 12,
+    "killed": 5
+  },
+  {
+    "Date": "2021-06-15",
+    "Casualties": 17,
+    "killed": 7
+  },
+  {
+    "Date": "2021-06-16",
+    "Casualties": 6,
+    "killed": 1
+  },
+  {
+    "Date": "2021-06-17",
+    "Casualties": 16,
+    "killed": 3
+  },
+  {
+    "Date": "2021-06-18",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-06-19",
+    "Casualties": 23,
+    "killed": 4
+  },
+  {
+    "Date": "2021-06-20",
+    "Casualties": 49,
+    "killed": 9
+  },
+  {
+    "Date": "2021-06-21",
+    "Casualties": 10,
+    "killed": 3
+  },
+  {
+    "Date": "2021-06-23",
+    "Casualties": 16,
+    "killed": 2
+  },
+  {
+    "Date": "2021-06-24",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2021-06-25",
+    "Casualties": 13,
+    "killed": 0
+  },
+  {
+    "Date": "2021-06-26",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2021-06-27",
+    "Casualties": 29,
+    "killed": 6
+  },
+  {
+    "Date": "2021-06-30",
+    "Casualties": 16,
+    "killed": 4
+  },
+  {
+    "Date": "2021-07-01",
+    "Casualties": 16,
+    "killed": 3
+  },
+  {
+    "Date": "2021-07-02",
+    "Casualties": 14,
+    "killed": 2
+  },
+  {
+    "Date": "2021-07-03",
+    "Casualties": 16,
+    "killed": 4
+  },
+  {
+    "Date": "2021-07-04",
+    "Casualties": 58,
+    "killed": 7
+  },
+  {
+    "Date": "2021-07-05",
+    "Casualties": 26,
+    "killed": 5
+  },
+  {
+    "Date": "2021-07-08",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-07-09",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-07-10",
+    "Casualties": 14,
+    "killed": 1
+  },
+  {
+    "Date": "2021-07-11",
+    "Casualties": 6,
+    "killed": 1
+  },
+  {
+    "Date": "2021-07-12",
+    "Casualties": 13,
+    "killed": 2
+  },
+  {
+    "Date": "2021-07-13",
+    "Casualties": 10,
+    "killed": 2
+  },
+  {
+    "Date": "2021-07-14",
+    "Casualties": 10,
+    "killed": 0
+  },
+  {
+    "Date": "2021-07-15",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2021-07-16",
+    "Casualties": 30,
+    "killed": 6
+  },
+  {
+    "Date": "2021-07-17",
+    "Casualties": 13,
+    "killed": 1
+  },
+  {
+    "Date": "2021-07-18",
+    "Casualties": 27,
+    "killed": 8
+  },
+  {
+    "Date": "2021-07-19",
+    "Casualties": 10,
+    "killed": 0
+  },
+  {
+    "Date": "2021-07-20",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2021-07-21",
+    "Casualties": 23,
+    "killed": 3
+  },
+  {
+    "Date": "2021-07-22",
+    "Casualties": 6,
+    "killed": 1
+  },
+  {
+    "Date": "2021-07-23",
+    "Casualties": 14,
+    "killed": 4
+  },
+  {
+    "Date": "2021-07-24",
+    "Casualties": 15,
+    "killed": 2
+  },
+  {
+    "Date": "2021-07-25",
+    "Casualties": 21,
+    "killed": 6
+  },
+  {
+    "Date": "2021-07-28",
+    "Casualties": 13,
+    "killed": 2
+  },
+  {
+    "Date": "2021-07-29",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2021-07-31",
+    "Casualties": 39,
+    "killed": 4
+  },
+  {
+    "Date": "2021-08-01",
+    "Casualties": 17,
+    "killed": 2
+  },
+  {
+    "Date": "2021-08-02",
+    "Casualties": 13,
+    "killed": 3
+  },
+  {
+    "Date": "2021-08-03",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-08-04",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-08-06",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-08-07",
+    "Casualties": 12,
+    "killed": 0
+  },
+  {
+    "Date": "2021-08-08",
+    "Casualties": 31,
+    "killed": 6
+  },
+  {
+    "Date": "2021-08-09",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2021-08-10",
+    "Casualties": 10,
+    "killed": 4
+  },
+  {
+    "Date": "2021-08-11",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2021-08-13",
+    "Casualties": 6,
+    "killed": 0
+  },
+  {
+    "Date": "2021-08-14",
+    "Casualties": 26,
+    "killed": 2
+  },
+  {
+    "Date": "2021-08-15",
+    "Casualties": 9,
+    "killed": 3
+  },
+  {
+    "Date": "2021-08-16",
+    "Casualties": 12,
+    "killed": 1
+  },
+  {
+    "Date": "2021-08-17",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-08-18",
+    "Casualties": 18,
+    "killed": 4
+  },
+  {
+    "Date": "2021-08-19",
+    "Casualties": 13,
+    "killed": 2
+  },
+  {
+    "Date": "2021-08-20",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-08-21",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2021-08-22",
+    "Casualties": 24,
+    "killed": 4
+  },
+  {
+    "Date": "2021-08-23",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-08-25",
+    "Casualties": 4,
+    "killed": 3
+  },
+  {
+    "Date": "2021-08-26",
+    "Casualties": 7,
+    "killed": 0
+  },
+  {
+    "Date": "2021-08-27",
+    "Casualties": 13,
+    "killed": 3
+  },
+  {
+    "Date": "2021-08-28",
+    "Casualties": 13,
+    "killed": 0
+  },
+  {
+    "Date": "2021-08-29",
+    "Casualties": 13,
+    "killed": 1
+  },
+  {
+    "Date": "2021-08-30",
+    "Casualties": 5,
+    "killed": 2
+  },
+  {
+    "Date": "2021-08-31",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2021-09-02",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-09-03",
+    "Casualties": 12,
+    "killed": 2
+  },
+  {
+    "Date": "2021-09-04",
+    "Casualties": 28,
+    "killed": 7
+  },
+  {
+    "Date": "2021-09-05",
+    "Casualties": 31,
+    "killed": 8
+  },
+  {
+    "Date": "2021-09-06",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-09-07",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2021-09-08",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-09-09",
+    "Casualties": 11,
+    "killed": 1
+  },
+  {
+    "Date": "2021-09-10",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-09-11",
+    "Casualties": 23,
+    "killed": 4
+  },
+  {
+    "Date": "2021-09-12",
+    "Casualties": 18,
+    "killed": 8
+  },
+  {
+    "Date": "2021-09-13",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-09-14",
+    "Casualties": 10,
+    "killed": 0
+  },
+  {
+    "Date": "2021-09-17",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-09-18",
+    "Casualties": 13,
+    "killed": 3
+  },
+  {
+    "Date": "2021-09-19",
+    "Casualties": 31,
+    "killed": 6
+  },
+  {
+    "Date": "2021-09-20",
+    "Casualties": 10,
+    "killed": 2
+  },
+  {
+    "Date": "2021-09-21",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-09-22",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2021-09-23",
+    "Casualties": 19,
+    "killed": 1
+  },
+  {
+    "Date": "2021-09-24",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2021-09-25",
+    "Casualties": 22,
+    "killed": 6
+  },
+  {
+    "Date": "2021-09-26",
+    "Casualties": 16,
+    "killed": 3
+  },
+  {
+    "Date": "2021-09-27",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2021-09-28",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2021-09-29",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-10-01",
+    "Casualties": 12,
+    "killed": 1
+  },
+  {
+    "Date": "2021-10-02",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2021-10-03",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2021-10-04",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-10-05",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2021-10-06",
+    "Casualties": 18,
+    "killed": 3
+  },
+  {
+    "Date": "2021-10-07",
+    "Casualties": 18,
+    "killed": 4
+  },
+  {
+    "Date": "2021-10-08",
+    "Casualties": 12,
+    "killed": 2
+  },
+  {
+    "Date": "2021-10-09",
+    "Casualties": 20,
+    "killed": 4
+  },
+  {
+    "Date": "2021-10-10",
+    "Casualties": 31,
+    "killed": 4
+  },
+  {
+    "Date": "2021-10-11",
+    "Casualties": 6,
+    "killed": 0
+  },
+  {
+    "Date": "2021-10-12",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2021-10-14",
+    "Casualties": 11,
+    "killed": 1
+  },
+  {
+    "Date": "2021-10-15",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2021-10-16",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-10-17",
+    "Casualties": 49,
+    "killed": 7
+  },
+  {
+    "Date": "2021-10-19",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2021-10-20",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2021-10-21",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2021-10-22",
+    "Casualties": 16,
+    "killed": 0
+  },
+  {
+    "Date": "2021-10-23",
+    "Casualties": 19,
+    "killed": 2
+  },
+  {
+    "Date": "2021-10-24",
+    "Casualties": 9,
+    "killed": 4
+  },
+  {
+    "Date": "2021-10-25",
+    "Casualties": 5,
+    "killed": 2
+  },
+  {
+    "Date": "2021-10-28",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2021-10-29",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2021-10-30",
+    "Casualties": 34,
+    "killed": 6
+  },
+  {
+    "Date": "2021-10-31",
+    "Casualties": 34,
+    "killed": 10
+  },
+  {
+    "Date": "2021-11-01",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2021-11-02",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-11-03",
+    "Casualties": 9,
+    "killed": 3
+  },
+  {
+    "Date": "2021-11-05",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-11-06",
+    "Casualties": 14,
+    "killed": 2
+  },
+  {
+    "Date": "2021-11-07",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-11-08",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2021-11-09",
+    "Casualties": 14,
+    "killed": 4
+  },
+  {
+    "Date": "2021-11-12",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2021-11-13",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2021-11-14",
+    "Casualties": 21,
+    "killed": 3
+  },
+  {
+    "Date": "2021-11-15",
+    "Casualties": 10,
+    "killed": 0
+  },
+  {
+    "Date": "2021-11-17",
+    "Casualties": 16,
+    "killed": 2
+  },
+  {
+    "Date": "2021-11-18",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-11-20",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2021-11-21",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2021-11-22",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2021-11-23",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2021-11-25",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2021-11-26",
+    "Casualties": 6,
+    "killed": 2
+  },
+  {
+    "Date": "2021-11-27",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-11-28",
+    "Casualties": 26,
+    "killed": 6
+  },
+  {
+    "Date": "2021-11-30",
+    "Casualties": 16,
+    "killed": 7
+  },
+  {
+    "Date": "2021-12-02",
+    "Casualties": 6,
+    "killed": 3
+  },
+  {
+    "Date": "2021-12-03",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2021-12-05",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2021-12-06",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-12-09",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2021-12-10",
+    "Casualties": 14,
+    "killed": 1
+  },
+  {
+    "Date": "2021-12-11",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-12-12",
+    "Casualties": 29,
+    "killed": 1
+  },
+  {
+    "Date": "2021-12-13",
+    "Casualties": 14,
+    "killed": 2
+  },
+  {
+    "Date": "2021-12-17",
+    "Casualties": 13,
+    "killed": 2
+  },
+  {
+    "Date": "2021-12-19",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2021-12-24",
+    "Casualties": 13,
+    "killed": 1
+  },
+  {
+    "Date": "2021-12-25",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2021-12-26",
+    "Casualties": 23,
+    "killed": 4
+  },
+  {
+    "Date": "2021-12-27",
+    "Casualties": 15,
+    "killed": 7
+  },
+  {
+    "Date": "2021-12-30",
+    "Casualties": 10,
+    "killed": 3
+  },
+  {
+    "Date": "2021-12-31",
+    "Casualties": 17,
+    "killed": 4
+  },
+  {
+    "Date": "2022-01-01",
+    "Casualties": 30,
+    "killed": 6
+  },
+  {
+    "Date": "2022-01-02",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2022-01-04",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-01-08",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-01-09",
+    "Casualties": 21,
+    "killed": 4
+  },
+  {
+    "Date": "2022-01-12",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-01-13",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-01-14",
+    "Casualties": 6,
+    "killed": 0
+  },
+  {
+    "Date": "2022-01-15",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2022-01-16",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-01-17",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2022-01-18",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-01-19",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2022-01-23",
+    "Casualties": 11,
+    "killed": 10
+  },
+  {
+    "Date": "2022-01-27",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2022-01-29",
+    "Casualties": 12,
+    "killed": 4
+  },
+  {
+    "Date": "2022-01-30",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2022-01-31",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-02-01",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2022-02-02",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2022-02-04",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2022-02-05",
+    "Casualties": 11,
+    "killed": 8
+  },
+  {
+    "Date": "2022-02-06",
+    "Casualties": 17,
+    "killed": 2
+  },
+  {
+    "Date": "2022-02-11",
+    "Casualties": 14,
+    "killed": 1
+  },
+  {
+    "Date": "2022-02-12",
+    "Casualties": 13,
+    "killed": 2
+  },
+  {
+    "Date": "2022-02-13",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2022-02-15",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-02-16",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-02-17",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2022-02-18",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2022-02-19",
+    "Casualties": 33,
+    "killed": 5
+  },
+  {
+    "Date": "2022-02-20",
+    "Casualties": 16,
+    "killed": 2
+  },
+  {
+    "Date": "2022-02-21",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-02-24",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-02-25",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2022-02-26",
+    "Casualties": 27,
+    "killed": 2
+  },
+  {
+    "Date": "2022-02-27",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-02-28",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2022-03-02",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-03-03",
+    "Casualties": 7,
+    "killed": 1
+  },
+  {
+    "Date": "2022-03-05",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2022-03-06",
+    "Casualties": 26,
+    "killed": 4
+  },
+  {
+    "Date": "2022-03-07",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-03-08",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2022-03-09",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-03-11",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2022-03-12",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2022-03-13",
+    "Casualties": 16,
+    "killed": 3
+  },
+  {
+    "Date": "2022-03-14",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-03-15",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2022-03-16",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2022-03-17",
+    "Casualties": 12,
+    "killed": 2
+  },
+  {
+    "Date": "2022-03-18",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2022-03-19",
+    "Casualties": 53,
+    "killed": 9
+  },
+  {
+    "Date": "2022-03-20",
+    "Casualties": 12,
+    "killed": 1
+  },
+  {
+    "Date": "2022-03-21",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2022-03-22",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-03-25",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2022-03-26",
+    "Casualties": 9,
+    "killed": 2
+  },
+  {
+    "Date": "2022-04-01",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-04-02",
+    "Casualties": 17,
+    "killed": 3
+  },
+  {
+    "Date": "2022-04-03",
+    "Casualties": 42,
+    "killed": 9
+  },
+  {
+    "Date": "2022-04-04",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2022-04-06",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-04-09",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2022-04-10",
+    "Casualties": 35,
+    "killed": 8
+  },
+  {
+    "Date": "2022-04-12",
+    "Casualties": 14,
+    "killed": 1
+  },
+  {
+    "Date": "2022-04-15",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2022-04-16",
+    "Casualties": 29,
+    "killed": 3
+  },
+  {
+    "Date": "2022-04-17",
+    "Casualties": 41,
+    "killed": 5
+  },
+  {
+    "Date": "2022-04-20",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2022-04-21",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2022-04-22",
+    "Casualties": 14,
+    "killed": 1
+  },
+  {
+    "Date": "2022-04-23",
+    "Casualties": 18,
+    "killed": 3
+  },
+  {
+    "Date": "2022-04-24",
+    "Casualties": 9,
+    "killed": 3
+  },
+  {
+    "Date": "2022-04-25",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-04-27",
+    "Casualties": 22,
+    "killed": 6
+  },
+  {
+    "Date": "2022-04-28",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-04-29",
+    "Casualties": 14,
+    "killed": 2
+  },
+  {
+    "Date": "2022-04-30",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2022-05-01",
+    "Casualties": 26,
+    "killed": 2
+  },
+  {
+    "Date": "2022-05-03",
+    "Casualties": 14,
+    "killed": 0
+  },
+  {
+    "Date": "2022-05-05",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2022-05-06",
+    "Casualties": 6,
+    "killed": 2
+  },
+  {
+    "Date": "2022-05-07",
+    "Casualties": 13,
+    "killed": 4
+  },
+  {
+    "Date": "2022-05-08",
+    "Casualties": 6,
+    "killed": 3
+  },
+  {
+    "Date": "2022-05-09",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2022-05-10",
+    "Casualties": 28,
+    "killed": 3
+  },
+  {
+    "Date": "2022-05-11",
+    "Casualties": 18,
+    "killed": 2
+  },
+  {
+    "Date": "2022-05-12",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-05-13",
+    "Casualties": 16,
+    "killed": 0
+  },
+  {
+    "Date": "2022-05-14",
+    "Casualties": 13,
+    "killed": 10
+  },
+  {
+    "Date": "2022-05-15",
+    "Casualties": 27,
+    "killed": 4
+  },
+  {
+    "Date": "2022-05-17",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-05-18",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2022-05-19",
+    "Casualties": 9,
+    "killed": 2
+  },
+  {
+    "Date": "2022-05-20",
+    "Casualties": 17,
+    "killed": 3
+  },
+  {
+    "Date": "2022-05-21",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2022-05-23",
+    "Casualties": 10,
+    "killed": 0
+  },
+  {
+    "Date": "2022-05-24",
+    "Casualties": 38,
+    "killed": 21
+  },
+  {
+    "Date": "2022-05-25",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-05-27",
+    "Casualties": 10,
+    "killed": 4
+  },
+  {
+    "Date": "2022-05-28",
+    "Casualties": 26,
+    "killed": 3
+  },
+  {
+    "Date": "2022-05-29",
+    "Casualties": 34,
+    "killed": 3
+  },
+  {
+    "Date": "2022-05-30",
+    "Casualties": 20,
+    "killed": 3
+  },
+  {
+    "Date": "2022-05-31",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-06-01",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2022-06-02",
+    "Casualties": 5,
+    "killed": 5
+  },
+  {
+    "Date": "2022-06-03",
+    "Casualties": 10,
+    "killed": 2
+  },
+  {
+    "Date": "2022-06-04",
+    "Casualties": 46,
+    "killed": 7
+  },
+  {
+    "Date": "2022-06-05",
+    "Casualties": 30,
+    "killed": 8
+  },
+  {
+    "Date": "2022-06-07",
+    "Casualties": 16,
+    "killed": 6
+  },
+  {
+    "Date": "2022-06-08",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-06-09",
+    "Casualties": 5,
+    "killed": 3
+  },
+  {
+    "Date": "2022-06-10",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-06-11",
+    "Casualties": 30,
+    "killed": 3
+  },
+  {
+    "Date": "2022-06-12",
+    "Casualties": 31,
+    "killed": 7
+  },
+  {
+    "Date": "2022-06-16",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2022-06-17",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2022-06-18",
+    "Casualties": 12,
+    "killed": 2
+  },
+  {
+    "Date": "2022-06-19",
+    "Casualties": 21,
+    "killed": 4
+  },
+  {
+    "Date": "2022-06-20",
+    "Casualties": 14,
+    "killed": 1
+  },
+  {
+    "Date": "2022-06-23",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-06-24",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2022-06-25",
+    "Casualties": 12,
+    "killed": 2
+  },
+  {
+    "Date": "2022-06-26",
+    "Casualties": 37,
+    "killed": 3
+  },
+  {
+    "Date": "2022-06-27",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2022-06-29",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2022-06-30",
+    "Casualties": 17,
+    "killed": 3
+  },
+  {
+    "Date": "2022-07-01",
+    "Casualties": 17,
+    "killed": 3
+  },
+  {
+    "Date": "2022-07-02",
+    "Casualties": 16,
+    "killed": 3
+  },
+  {
+    "Date": "2022-07-03",
+    "Casualties": 18,
+    "killed": 2
+  },
+  {
+    "Date": "2022-07-04",
+    "Casualties": 81,
+    "killed": 10
+  },
+  {
+    "Date": "2022-07-05",
+    "Casualties": 18,
+    "killed": 4
+  },
+  {
+    "Date": "2022-07-06",
+    "Casualties": 12,
+    "killed": 0
+  },
+  {
+    "Date": "2022-07-07",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-07-08",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2022-07-09",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-07-10",
+    "Casualties": 29,
+    "killed": 6
+  },
+  {
+    "Date": "2022-07-11",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-07-12",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-07-13",
+    "Casualties": 12,
+    "killed": 1
+  },
+  {
+    "Date": "2022-07-14",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2022-07-16",
+    "Casualties": 25,
+    "killed": 7
+  },
+  {
+    "Date": "2022-07-17",
+    "Casualties": 39,
+    "killed": 6
+  },
+  {
+    "Date": "2022-07-18",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2022-07-19",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-07-21",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2022-07-23",
+    "Casualties": 42,
+    "killed": 4
+  },
+  {
+    "Date": "2022-07-24",
+    "Casualties": 24,
+    "killed": 4
+  },
+  {
+    "Date": "2022-07-25",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-07-27",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2022-07-29",
+    "Casualties": 17,
+    "killed": 4
+  },
+  {
+    "Date": "2022-07-30",
+    "Casualties": 14,
+    "killed": 2
+  },
+  {
+    "Date": "2022-07-31",
+    "Casualties": 31,
+    "killed": 3
+  },
+  {
+    "Date": "2022-08-01",
+    "Casualties": 14,
+    "killed": 4
+  },
+  {
+    "Date": "2022-08-02",
+    "Casualties": 9,
+    "killed": 4
+  },
+  {
+    "Date": "2022-08-03",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2022-08-04",
+    "Casualties": 8,
+    "killed": 5
+  },
+  {
+    "Date": "2022-08-05",
+    "Casualties": 12,
+    "killed": 4
+  },
+  {
+    "Date": "2022-08-06",
+    "Casualties": 16,
+    "killed": 2
+  },
+  {
+    "Date": "2022-08-07",
+    "Casualties": 23,
+    "killed": 4
+  },
+  {
+    "Date": "2022-08-08",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-08-10",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-08-12",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2022-08-13",
+    "Casualties": 20,
+    "killed": 2
+  },
+  {
+    "Date": "2022-08-14",
+    "Casualties": 14,
+    "killed": 3
+  },
+  {
+    "Date": "2022-08-16",
+    "Casualties": 15,
+    "killed": 0
+  },
+  {
+    "Date": "2022-08-17",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2022-08-18",
+    "Casualties": 5,
+    "killed": 3
+  },
+  {
+    "Date": "2022-08-19",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2022-08-20",
+    "Casualties": 13,
+    "killed": 0
+  },
+  {
+    "Date": "2022-08-23",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2022-08-24",
+    "Casualties": 20,
+    "killed": 5
+  },
+  {
+    "Date": "2022-08-25",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2022-08-27",
+    "Casualties": 16,
+    "killed": 2
+  },
+  {
+    "Date": "2022-08-28",
+    "Casualties": 40,
+    "killed": 11
+  },
+  {
+    "Date": "2022-08-29",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-09-02",
+    "Casualties": 12,
+    "killed": 2
+  },
+  {
+    "Date": "2022-09-03",
+    "Casualties": 17,
+    "killed": 3
+  },
+  {
+    "Date": "2022-09-04",
+    "Casualties": 27,
+    "killed": 7
+  },
+  {
+    "Date": "2022-09-05",
+    "Casualties": 29,
+    "killed": 8
+  },
+  {
+    "Date": "2022-09-07",
+    "Casualties": 6,
+    "killed": 3
+  },
+  {
+    "Date": "2022-09-08",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2022-09-09",
+    "Casualties": 12,
+    "killed": 5
+  },
+  {
+    "Date": "2022-09-10",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2022-09-11",
+    "Casualties": 17,
+    "killed": 1
+  },
+  {
+    "Date": "2022-09-12",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-09-13",
+    "Casualties": 13,
+    "killed": 2
+  },
+  {
+    "Date": "2022-09-14",
+    "Casualties": 13,
+    "killed": 0
+  },
+  {
+    "Date": "2022-09-16",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-09-17",
+    "Casualties": 10,
+    "killed": 0
+  },
+  {
+    "Date": "2022-09-18",
+    "Casualties": 17,
+    "killed": 3
+  },
+  {
+    "Date": "2022-09-19",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-09-20",
+    "Casualties": 9,
+    "killed": 2
+  },
+  {
+    "Date": "2022-09-22",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-09-23",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-09-24",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2022-09-25",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2022-09-27",
+    "Casualties": 21,
+    "killed": 1
+  },
+  {
+    "Date": "2022-09-28",
+    "Casualties": 19,
+    "killed": 1
+  },
+  {
+    "Date": "2022-09-29",
+    "Casualties": 5,
+    "killed": 5
+  },
+  {
+    "Date": "2022-09-30",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2022-10-01",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2022-10-02",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2022-10-05",
+    "Casualties": 6,
+    "killed": 4
+  },
+  {
+    "Date": "2022-10-06",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2022-10-07",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2022-10-08",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2022-10-09",
+    "Casualties": 29,
+    "killed": 12
+  },
+  {
+    "Date": "2022-10-10",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-10-13",
+    "Casualties": 17,
+    "killed": 5
+  },
+  {
+    "Date": "2022-10-14",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-10-15",
+    "Casualties": 31,
+    "killed": 6
+  },
+  {
+    "Date": "2022-10-16",
+    "Casualties": 20,
+    "killed": 1
+  },
+  {
+    "Date": "2022-10-17",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2022-10-20",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2022-10-21",
+    "Casualties": 23,
+    "killed": 6
+  },
+  {
+    "Date": "2022-10-22",
+    "Casualties": 24,
+    "killed": 1
+  },
+  {
+    "Date": "2022-10-23",
+    "Casualties": 14,
+    "killed": 3
+  },
+  {
+    "Date": "2022-10-24",
+    "Casualties": 10,
+    "killed": 3
+  },
+  {
+    "Date": "2022-10-25",
+    "Casualties": 10,
+    "killed": 4
+  },
+  {
+    "Date": "2022-10-27",
+    "Casualties": 7,
+    "killed": 7
+  },
+  {
+    "Date": "2022-10-28",
+    "Casualties": 9,
+    "killed": 2
+  },
+  {
+    "Date": "2022-10-29",
+    "Casualties": 15,
+    "killed": 1
+  },
+  {
+    "Date": "2022-10-30",
+    "Casualties": 22,
+    "killed": 7
+  },
+  {
+    "Date": "2022-10-31",
+    "Casualties": 26,
+    "killed": 4
+  },
+  {
+    "Date": "2022-11-01",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2022-11-02",
+    "Casualties": 9,
+    "killed": 2
+  },
+  {
+    "Date": "2022-11-03",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-11-04",
+    "Casualties": 9,
+    "killed": 8
+  },
+  {
+    "Date": "2022-11-05",
+    "Casualties": 13,
+    "killed": 0
+  },
+  {
+    "Date": "2022-11-06",
+    "Casualties": 18,
+    "killed": 1
+  },
+  {
+    "Date": "2022-11-07",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-11-11",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-11-12",
+    "Casualties": 20,
+    "killed": 1
+  },
+  {
+    "Date": "2022-11-13",
+    "Casualties": 22,
+    "killed": 5
+  },
+  {
+    "Date": "2022-11-18",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2022-11-19",
+    "Casualties": 35,
+    "killed": 7
+  },
+  {
+    "Date": "2022-11-20",
+    "Casualties": 9,
+    "killed": 4
+  },
+  {
+    "Date": "2022-11-22",
+    "Casualties": 16,
+    "killed": 8
+  },
+  {
+    "Date": "2022-11-23",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2022-11-24",
+    "Casualties": 9,
+    "killed": 3
+  },
+  {
+    "Date": "2022-11-25",
+    "Casualties": 0,
+    "killed": 0
+  },
+  {
+    "Date": "2022-11-26",
+    "Casualties": 10,
+    "killed": 4
+  },
+  {
+    "Date": "2022-11-27",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2022-11-30",
+    "Casualties": 12,
+    "killed": 0
+  },
+  {
+    "Date": "2022-12-01",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-12-04",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2022-12-06",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2022-12-08",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2022-12-09",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-12-11",
+    "Casualties": 4,
+    "killed": 3
+  },
+  {
+    "Date": "2022-12-12",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2022-12-13",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2022-12-16",
+    "Casualties": 18,
+    "killed": 4
+  },
+  {
+    "Date": "2022-12-17",
+    "Casualties": 5,
+    "killed": 2
+  },
+  {
+    "Date": "2022-12-18",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2022-12-19",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2022-12-23",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2022-12-24",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2022-12-26",
+    "Casualties": 6,
+    "killed": 2
+  },
+  {
+    "Date": "2022-12-27",
+    "Casualties": 13,
+    "killed": 2
+  },
+  {
+    "Date": "2022-12-28",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2022-12-30",
+    "Casualties": 9,
+    "killed": 3
+  },
+  {
+    "Date": "2022-12-31",
+    "Casualties": 17,
+    "killed": 1
+  },
+  {
+    "Date": "2023-01-01",
+    "Casualties": 33,
+    "killed": 4
+  },
+  {
+    "Date": "2023-01-03",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2023-01-04",
+    "Casualties": 17,
+    "killed": 9
+  },
+  {
+    "Date": "2023-01-05",
+    "Casualties": 15,
+    "killed": 2
+  },
+  {
+    "Date": "2023-01-06",
+    "Casualties": 9,
+    "killed": 4
+  },
+  {
+    "Date": "2023-01-07",
+    "Casualties": 15,
+    "killed": 6
+  },
+  {
+    "Date": "2023-01-08",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2023-01-09",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2023-01-13",
+    "Casualties": 5,
+    "killed": 4
+  },
+  {
+    "Date": "2023-01-14",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-01-15",
+    "Casualties": 17,
+    "killed": 5
+  },
+  {
+    "Date": "2023-01-16",
+    "Casualties": 20,
+    "killed": 8
+  },
+  {
+    "Date": "2023-01-17",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-01-21",
+    "Casualties": 25,
+    "killed": 11
+  },
+  {
+    "Date": "2023-01-22",
+    "Casualties": 24,
+    "killed": 1
+  },
+  {
+    "Date": "2023-01-23",
+    "Casualties": 18,
+    "killed": 10
+  },
+  {
+    "Date": "2023-01-24",
+    "Casualties": 4,
+    "killed": 3
+  },
+  {
+    "Date": "2023-01-26",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2023-01-27",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-01-28",
+    "Casualties": 18,
+    "killed": 7
+  },
+  {
+    "Date": "2023-01-29",
+    "Casualties": 15,
+    "killed": 6
+  },
+  {
+    "Date": "2023-01-30",
+    "Casualties": 15,
+    "killed": 1
+  },
+  {
+    "Date": "2023-01-31",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2023-02-01",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2023-02-04",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2023-02-05",
+    "Casualties": 18,
+    "killed": 5
+  },
+  {
+    "Date": "2023-02-06",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-02-08",
+    "Casualties": 14,
+    "killed": 2
+  },
+  {
+    "Date": "2023-02-10",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2023-02-12",
+    "Casualties": 6,
+    "killed": 1
+  },
+  {
+    "Date": "2023-02-13",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2023-02-14",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2023-02-15",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2023-02-17",
+    "Casualties": 15,
+    "killed": 6
+  },
+  {
+    "Date": "2023-02-18",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2023-02-19",
+    "Casualties": 26,
+    "killed": 5
+  },
+  {
+    "Date": "2023-02-21",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2023-02-22",
+    "Casualties": 5,
+    "killed": 3
+  },
+  {
+    "Date": "2023-02-23",
+    "Casualties": 7,
+    "killed": 0
+  },
+  {
+    "Date": "2023-02-24",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-02-25",
+    "Casualties": 9,
+    "killed": 2
+  },
+  {
+    "Date": "2023-02-26",
+    "Casualties": 13,
+    "killed": 5
+  },
+  {
+    "Date": "2023-02-27",
+    "Casualties": 8,
+    "killed": 5
+  },
+  {
+    "Date": "2023-03-01",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2023-03-04",
+    "Casualties": 22,
+    "killed": 2
+  },
+  {
+    "Date": "2023-03-05",
+    "Casualties": 16,
+    "killed": 3
+  },
+  {
+    "Date": "2023-03-06",
+    "Casualties": 8,
+    "killed": 6
+  },
+  {
+    "Date": "2023-03-07",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2023-03-10",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2023-03-11",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2023-03-12",
+    "Casualties": 18,
+    "killed": 4
+  },
+  {
+    "Date": "2023-03-13",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-03-14",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2023-03-15",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2023-03-18",
+    "Casualties": 14,
+    "killed": 2
+  },
+  {
+    "Date": "2023-03-20",
+    "Casualties": 6,
+    "killed": 1
+  },
+  {
+    "Date": "2023-03-21",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2023-03-23",
+    "Casualties": 6,
+    "killed": 1
+  },
+  {
+    "Date": "2023-03-24",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2023-03-25",
+    "Casualties": 26,
+    "killed": 2
+  },
+  {
+    "Date": "2023-03-26",
+    "Casualties": 21,
+    "killed": 4
+  },
+  {
+    "Date": "2023-03-27",
+    "Casualties": 11,
+    "killed": 6
+  },
+  {
+    "Date": "2023-03-29",
+    "Casualties": 6,
+    "killed": 2
+  },
+  {
+    "Date": "2023-04-01",
+    "Casualties": 4,
+    "killed": 3
+  },
+  {
+    "Date": "2023-04-02",
+    "Casualties": 12,
+    "killed": 1
+  },
+  {
+    "Date": "2023-04-03",
+    "Casualties": 12,
+    "killed": 2
+  },
+  {
+    "Date": "2023-04-04",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2023-04-05",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-04-06",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-04-07",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2023-04-08",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-04-09",
+    "Casualties": 5,
+    "killed": 3
+  },
+  {
+    "Date": "2023-04-10",
+    "Casualties": 10,
+    "killed": 5
+  },
+  {
+    "Date": "2023-04-11",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-04-12",
+    "Casualties": 20,
+    "killed": 4
+  },
+  {
+    "Date": "2023-04-13",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2023-04-14",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2023-04-15",
+    "Casualties": 65,
+    "killed": 11
+  },
+  {
+    "Date": "2023-04-16",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2023-04-17",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-04-18",
+    "Casualties": 11,
+    "killed": 5
+  },
+  {
+    "Date": "2023-04-20",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2023-04-21",
+    "Casualties": 12,
+    "killed": 0
+  },
+  {
+    "Date": "2023-04-22",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2023-04-23",
+    "Casualties": 11,
+    "killed": 0
+  },
+  {
+    "Date": "2023-04-28",
+    "Casualties": 9,
+    "killed": 8
+  },
+  {
+    "Date": "2023-04-29",
+    "Casualties": 13,
+    "killed": 0
+  },
+  {
+    "Date": "2023-04-30",
+    "Casualties": 52,
+    "killed": 16
+  },
+  {
+    "Date": "2023-05-02",
+    "Casualties": 8,
+    "killed": 6
+  },
+  {
+    "Date": "2023-05-03",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2023-05-05",
+    "Casualties": 24,
+    "killed": 7
+  },
+  {
+    "Date": "2023-05-06",
+    "Casualties": 38,
+    "killed": 10
+  },
+  {
+    "Date": "2023-05-07",
+    "Casualties": 36,
+    "killed": 9
+  },
+  {
+    "Date": "2023-05-10",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2023-05-11",
+    "Casualties": 13,
+    "killed": 4
+  },
+  {
+    "Date": "2023-05-12",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-05-13",
+    "Casualties": 30,
+    "killed": 5
+  },
+  {
+    "Date": "2023-05-14",
+    "Casualties": 18,
+    "killed": 1
+  },
+  {
+    "Date": "2023-05-15",
+    "Casualties": 9,
+    "killed": 3
+  },
+  {
+    "Date": "2023-05-16",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-05-18",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-05-20",
+    "Casualties": 16,
+    "killed": 2
+  },
+  {
+    "Date": "2023-05-21",
+    "Casualties": 34,
+    "killed": 3
+  },
+  {
+    "Date": "2023-05-22",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2023-05-23",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2023-05-25",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-05-26",
+    "Casualties": 28,
+    "killed": 8
+  },
+  {
+    "Date": "2023-05-27",
+    "Casualties": 24,
+    "killed": 5
+  },
+  {
+    "Date": "2023-05-28",
+    "Casualties": 25,
+    "killed": 1
+  },
+  {
+    "Date": "2023-05-29",
+    "Casualties": 30,
+    "killed": 2
+  },
+  {
+    "Date": "2023-05-30",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2023-05-31",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2023-06-02",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2023-06-03",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-06-04",
+    "Casualties": 23,
+    "killed": 5
+  },
+  {
+    "Date": "2023-06-05",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2023-06-06",
+    "Casualties": 7,
+    "killed": 2
+  },
+  {
+    "Date": "2023-06-07",
+    "Casualties": 7,
+    "killed": 0
+  },
+  {
+    "Date": "2023-06-08",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-06-09",
+    "Casualties": 14,
+    "killed": 1
+  },
+  {
+    "Date": "2023-06-10",
+    "Casualties": 14,
+    "killed": 1
+  },
+  {
+    "Date": "2023-06-11",
+    "Casualties": 39,
+    "killed": 5
+  },
+  {
+    "Date": "2023-06-13",
+    "Casualties": 13,
+    "killed": 0
+  },
+  {
+    "Date": "2023-06-14",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-06-15",
+    "Casualties": 14,
+    "killed": 8
+  },
+  {
+    "Date": "2023-06-16",
+    "Casualties": 18,
+    "killed": 0
+  },
+  {
+    "Date": "2023-06-17",
+    "Casualties": 41,
+    "killed": 4
+  },
+  {
+    "Date": "2023-06-18",
+    "Casualties": 61,
+    "killed": 10
+  },
+  {
+    "Date": "2023-06-19",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2023-06-20",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-06-21",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-06-24",
+    "Casualties": 26,
+    "killed": 4
+  },
+  {
+    "Date": "2023-06-25",
+    "Casualties": 25,
+    "killed": 7
+  },
+  {
+    "Date": "2023-06-26",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2023-06-28",
+    "Casualties": 5,
+    "killed": 3
+  },
+  {
+    "Date": "2023-06-29",
+    "Casualties": 5,
+    "killed": 1
+  },
+  {
+    "Date": "2023-06-30",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2023-07-01",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-07-02",
+    "Casualties": 42,
+    "killed": 2
+  },
+  {
+    "Date": "2023-07-03",
+    "Casualties": 38,
+    "killed": 12
+  },
+  {
+    "Date": "2023-07-04",
+    "Casualties": 33,
+    "killed": 4
+  },
+  {
+    "Date": "2023-07-05",
+    "Casualties": 48,
+    "killed": 6
+  },
+  {
+    "Date": "2023-07-07",
+    "Casualties": 13,
+    "killed": 0
+  },
+  {
+    "Date": "2023-07-08",
+    "Casualties": 20,
+    "killed": 6
+  },
+  {
+    "Date": "2023-07-09",
+    "Casualties": 34,
+    "killed": 5
+  },
+  {
+    "Date": "2023-07-11",
+    "Casualties": 10,
+    "killed": 0
+  },
+  {
+    "Date": "2023-07-12",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-07-13",
+    "Casualties": 15,
+    "killed": 3
+  },
+  {
+    "Date": "2023-07-14",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2023-07-15",
+    "Casualties": 31,
+    "killed": 8
+  },
+  {
+    "Date": "2023-07-16",
+    "Casualties": 15,
+    "killed": 3
+  },
+  {
+    "Date": "2023-07-17",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2023-07-18",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2023-07-19",
+    "Casualties": 5,
+    "killed": 2
+  },
+  {
+    "Date": "2023-07-20",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-07-21",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-07-22",
+    "Casualties": 25,
+    "killed": 4
+  },
+  {
+    "Date": "2023-07-23",
+    "Casualties": 22,
+    "killed": 2
+  },
+  {
+    "Date": "2023-07-24",
+    "Casualties": 8,
+    "killed": 4
+  },
+  {
+    "Date": "2023-07-25",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2023-07-28",
+    "Casualties": 18,
+    "killed": 2
+  },
+  {
+    "Date": "2023-07-29",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-07-30",
+    "Casualties": 43,
+    "killed": 2
+  },
+  {
+    "Date": "2023-07-31",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-08-02",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2023-08-03",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-08-05",
+    "Casualties": 14,
+    "killed": 4
+  },
+  {
+    "Date": "2023-08-06",
+    "Casualties": 12,
+    "killed": 0
+  },
+  {
+    "Date": "2023-08-09",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2023-08-10",
+    "Casualties": 4,
+    "killed": 2
+  },
+  {
+    "Date": "2023-08-11",
+    "Casualties": 15,
+    "killed": 4
+  },
+  {
+    "Date": "2023-08-12",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2023-08-13",
+    "Casualties": 31,
+    "killed": 1
+  },
+  {
+    "Date": "2023-08-15",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2023-08-16",
+    "Casualties": 18,
+    "killed": 6
+  },
+  {
+    "Date": "2023-08-18",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2023-08-19",
+    "Casualties": 26,
+    "killed": 2
+  },
+  {
+    "Date": "2023-08-20",
+    "Casualties": 30,
+    "killed": 4
+  },
+  {
+    "Date": "2023-08-21",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2023-08-22",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-08-23",
+    "Casualties": 12,
+    "killed": 3
+  },
+  {
+    "Date": "2023-08-24",
+    "Casualties": 4,
+    "killed": 4
+  },
+  {
+    "Date": "2023-08-25",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2023-08-26",
+    "Casualties": 16,
+    "killed": 0
+  },
+  {
+    "Date": "2023-08-27",
+    "Casualties": 23,
+    "killed": 5
+  },
+  {
+    "Date": "2023-08-29",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-08-30",
+    "Casualties": 9,
+    "killed": 1
+  },
+  {
+    "Date": "2023-09-01",
+    "Casualties": 1,
+    "killed": 0
+  },
+  {
+    "Date": "2023-09-02",
+    "Casualties": 7,
+    "killed": 2
+  },
+  {
+    "Date": "2023-09-03",
+    "Casualties": 17,
+    "killed": 4
+  },
+  {
+    "Date": "2023-09-04",
+    "Casualties": 9,
+    "killed": 3
+  },
+  {
+    "Date": "2023-09-05",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-09-06",
+    "Casualties": 12,
+    "killed": 1
+  },
+  {
+    "Date": "2023-09-07",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-09-09",
+    "Casualties": 8,
+    "killed": 0
+  },
+  {
+    "Date": "2023-09-10",
+    "Casualties": 14,
+    "killed": 2
+  },
+  {
+    "Date": "2023-09-11",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-09-13",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-09-15",
+    "Casualties": 7,
+    "killed": 1
+  },
+  {
+    "Date": "2023-09-16",
+    "Casualties": 9,
+    "killed": 0
+  },
+  {
+    "Date": "2023-09-17",
+    "Casualties": 15,
+    "killed": 6
+  },
+  {
+    "Date": "2023-09-18",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2023-09-22",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2023-09-23",
+    "Casualties": 22,
+    "killed": 6
+  },
+  {
+    "Date": "2023-09-24",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2023-09-25",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2023-09-27",
+    "Casualties": 5,
+    "killed": 2
+  },
+  {
+    "Date": "2023-09-29",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-09-30",
+    "Casualties": 8,
+    "killed": 1
+  },
+  {
+    "Date": "2023-10-01",
+    "Casualties": 27,
+    "killed": 5
+  },
+  {
+    "Date": "2023-10-02",
+    "Casualties": 4,
+    "killed": 3
+  },
+  {
+    "Date": "2023-10-03",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2023-10-04",
+    "Casualties": 13,
+    "killed": 2
+  },
+  {
+    "Date": "2023-10-06",
+    "Casualties": 16,
+    "killed": 0
+  },
+  {
+    "Date": "2023-10-07",
+    "Casualties": 9,
+    "killed": 2
+  },
+  {
+    "Date": "2023-10-08",
+    "Casualties": 21,
+    "killed": 1
+  },
+  {
+    "Date": "2023-10-10",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-10-12",
+    "Casualties": 5,
+    "killed": 0
+  },
+  {
+    "Date": "2023-10-13",
+    "Casualties": 9,
+    "killed": 2
+  },
+  {
+    "Date": "2023-10-14",
+    "Casualties": 6,
+    "killed": 3
+  },
+  {
+    "Date": "2023-10-15",
+    "Casualties": 10,
+    "killed": 1
+  },
+  {
+    "Date": "2023-10-16",
+    "Casualties": 8,
+    "killed": 3
+  },
+  {
+    "Date": "2023-10-17",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-10-18",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-10-19",
+    "Casualties": 4,
+    "killed": 3
+  },
+  {
+    "Date": "2023-10-20",
+    "Casualties": 4,
+    "killed": 0
+  },
+  {
+    "Date": "2023-10-21",
+    "Casualties": 16,
+    "killed": 3
+  },
+  {
+    "Date": "2023-10-22",
+    "Casualties": 12,
+    "killed": 2
+  },
+  {
+    "Date": "2023-10-23",
+    "Casualties": 8,
+    "killed": 2
+  },
+  {
+    "Date": "2023-10-24",
+    "Casualties": 4,
+    "killed": 1
+  },
+  {
+    "Date": "2023-10-25",
+    "Casualties": 72,
+    "killed": 22
+  }
+]
