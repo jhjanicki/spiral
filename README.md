@@ -1,7 +1,8 @@
 # Description
-Treemap using D3 + Svelte, showing number of shark species by conservation status
+Sprial chart using D3 + Svelte, showing number of people killed during mass shooting events in the US.
+Code based on example from Amelia Wattenberger.
+
+<img width="654" alt="Screenshot 2024-05-28 at 16 44 52" src="https://github.com/jhjanicki/spriral_gun_violoence/assets/6565011/32641ff0-7660-414d-a078-26dadbb34a34">
 
 # Data
-IUCN Red List shark data, summarized so only species (anonymized) and conservation status is available
-
-<img width="680" alt="Screenshot 2023-02-16 at 14 03 42" src="https://github.com/jhjanicki/d3_svelte_treemap/assets/6565011/4be181b4-fa7f-41e4-89e7-f22997fc2991">
+Gun Violence Archive
