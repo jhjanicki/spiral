@@ -18,7 +18,6 @@ const progressInYearAccessor = (d) => {
   const date = parseDate(timeAccessor(d));
   return timeDay.count(timeYear.floor(date), date); //0 to 364
 };
-const formatNumber = format(',.1s');
 
 let width = 100;
 $: height = width
@@ -169,7 +168,7 @@ $: years = timeYear.range(timeYear.floor(timeDomain[0]), timeDomain[1])
           </div>
 
           <div class="legend__value">
-            {formatNumber(value)}{value === 100 ? '+' : ''}
+            {value}
           </div>
         </div>
       {/each}
